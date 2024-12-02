@@ -39,9 +39,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. Use uma ferramenta de edição de documentos como PowerPoint, LibreOffice, ou Canva para a diagramação.
 
-## 📕 Ler E-book
+# 📕 Ler E-book
 
-<a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/output/ebook.pdf" title="View PDF now">📕 Clique aqui para ler</a>
+<a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/Ebook/osegredodoemailmarketing.pdf" title="View PDF now">📕 Clique aqui para ler</a>
 
 ---
 
