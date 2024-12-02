@@ -1,0 +1,29 @@
+# Ignorando arquivos de log
+*.log
+
+# Ignorando arquivos temporários
+*.tmp
+*.temp
+
+# Ignorando pastas temporárias e de backup
+/temp/
+*.bak
+
+# Ignorando arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorando configurações do IDE
+.vscode/
+.idea/
+
+# Ignorando compilados do Python
+__pycache__/
+*.pyc
+
+# Ignorando nós_modules (se usar Node.js)
+node_modules/
+
+# Ignorando arquivos de ambiente virtual (Python)
+env/
+venv/
