@@ -44,6 +44,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. U
 
 <a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/Ebook/osegredodoemailmarketing.pdf" title="View PDF now">📕 Clique aqui para ler</a>
 
+
 ---
 
 Esperamos que este e-book seja útil e informativo. Se tiver dúvidas ou precisar de ajuda, não hesite em nos contatar!
