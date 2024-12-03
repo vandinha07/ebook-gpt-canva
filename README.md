@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto EBOOK Gerado por I.A.s
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
@@ -46,3 +47,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. U
 ---
 
 Esperamos que este e-book seja útil e informativo. Se tiver dúvidas ou precisar de ajuda, não hesite em nos contatar!
+=======
+# ebook-gpt-canva
+>>>>>>> 3bd4f6296ca5bc42b91114b816388f6cb908dc84
