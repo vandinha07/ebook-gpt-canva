@@ -42,7 +42,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. U
 
 # 📕 Ler E-book
 
-<a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/Ebook/osegredodoemailmarketing.pdf" title="View PDF now">📕 Clique aqui para ler</a>
+<a href="https://github.com/vandinha07/ebook-gpt-canva/upload/main/Ebook" title="View PDF now">📕 Clique aqui para ler</a>
 
 ---
 
