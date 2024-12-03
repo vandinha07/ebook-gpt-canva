@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto EBOOK Gerado por I.A.s
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
@@ -36,18 +35,23 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - Imagens utilizadas em `imagens`
 - E-book gerado durante as aulas em `ebook`
 
+## Imagens do Projeto
+
+Aqui estão as imagens utilizadas no projeto:
+
+![Imagem 1](https://github.com/vandinha07/ebook-gpt-canva/blob/main/Imagens/notebook%20on%20a%20simple%20desk,%20with%20money%20notes%20coming%20out%20of%20the%20screen,%20black%20background.png?raw=true)
+![Imagem 2](https://github.com/vandinha07/ebook-gpt-canva/blob/main/Imagens/o%20segredo%20do%20email%20marketing.png?raw=true)
+
+
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. Use uma ferramenta de edição de documentos como PowerPoint, LibreOffice, ou Canva para a diagramação.
 
 ## 📕 Ler E-book
 
-<a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/Ebook/ebook.pdf" title="View PDF now">📕 Clique aqui para ler</a>
-
+<a href="https://github.com/vandinha07/ebook-gpt-canva/blob/main/Ebook/ebook.pdf" title="View PDF now">
+📕 Clique aqui para ler</a>
 
 ---
 
 Esperamos que este e-book seja útil e informativo. Se tiver dúvidas ou precisar de ajuda, não hesite em nos contatar!
-=======
-# ebook-gpt-canva
->>>>>>> 3bd4f6296ca5bc42b91114b816388f6cb908dc84
